@@ -1,6 +1,5 @@
 .rebar3
 rebar3
-_*
 .eunit
 *.o
 *.beam

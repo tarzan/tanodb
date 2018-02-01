@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/basho_stats/basho_stats.iml" filepath="$PROJECT_DIR$/_build/default/lib/basho_stats/basho_stats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/bear/bear.iml" filepath="$PROJECT_DIR$/_build/default/lib/bear/bear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/blume/blume.iml" filepath="$PROJECT_DIR$/_build/default/lib/blume/blume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/chash/chash.iml" filepath="$PROJECT_DIR$/_build/default/lib/chash/chash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/clique/clique.iml" filepath="$PROJECT_DIR$/_build/default/lib/clique/clique.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/cowboy/cowboy.iml" filepath="$PROJECT_DIR$/_build/default/lib/cowboy/cowboy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/cowboy_exometer/cowboy_exometer.iml" filepath="$PROJECT_DIR$/_build/default/lib/cowboy_exometer/cowboy_exometer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/cowlib/cowlib.iml" filepath="$PROJECT_DIR$/_build/default/lib/cowlib/cowlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/cuttlefish/cuttlefish.iml" filepath="$PROJECT_DIR$/_build/default/lib/cuttlefish/cuttlefish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/edown/edown.iml" filepath="$PROJECT_DIR$/_build/default/lib/edown/edown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/eleveldb/eleveldb.iml" filepath="$PROJECT_DIR$/_build/default/lib/eleveldb/eleveldb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/exometer_core/exometer_core.iml" filepath="$PROJECT_DIR$/_build/default/lib/exometer_core/exometer_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/folsom/folsom.iml" filepath="$PROJECT_DIR$/_build/default/lib/folsom/folsom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/getopt/getopt.iml" filepath="$PROJECT_DIR$/_build/default/lib/getopt/getopt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/goldrush/goldrush.iml" filepath="$PROJECT_DIR$/_build/default/lib/goldrush/goldrush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/jam/jam.iml" filepath="$PROJECT_DIR$/_build/default/lib/jam/jam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/jsx/jsx.iml" filepath="$PROJECT_DIR$/_build/default/lib/jsx/jsx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/lager/lager.iml" filepath="$PROJECT_DIR$/_build/default/lib/lager/lager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/parse_trans/parse_trans.iml" filepath="$PROJECT_DIR$/_build/default/lib/parse_trans/parse_trans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/pbkdf2/pbkdf2.iml" filepath="$PROJECT_DIR$/_build/default/lib/pbkdf2/pbkdf2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/plugins/pc/pc.iml" filepath="$PROJECT_DIR$/_build/default/plugins/pc/pc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/poolboy/poolboy.iml" filepath="$PROJECT_DIR$/_build/default/lib/poolboy/poolboy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/ranch/ranch.iml" filepath="$PROJECT_DIR$/_build/default/lib/ranch/ranch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/rcs_cowboy/rcs_cowboy.iml" filepath="$PROJECT_DIR$/_build/default/lib/rcs_cowboy/rcs_cowboy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/plugins/rebar3_cuttlefish/rebar3_cuttlefish.iml" filepath="$PROJECT_DIR$/_build/default/plugins/rebar3_cuttlefish/rebar3_cuttlefish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/plugins/rebar3_run/rebar3_run.iml" filepath="$PROJECT_DIR$/_build/default/plugins/rebar3_run/rebar3_run.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/recon/recon.iml" filepath="$PROJECT_DIR$/_build/default/lib/recon/recon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/riak_core/riak_core.iml" filepath="$PROJECT_DIR$/_build/default/lib/riak_core/riak_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/riak_ensemble/riak_ensemble.iml" filepath="$PROJECT_DIR$/_build/default/lib/riak_ensemble/riak_ensemble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/riak_sysmon/riak_sysmon.iml" filepath="$PROJECT_DIR$/_build/default/lib/riak_sysmon/riak_sysmon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/setup/setup.iml" filepath="$PROJECT_DIR$/_build/default/lib/setup/setup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/tanodb/tanodb.iml" filepath="$PROJECT_DIR$/apps/tanodb/tanodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/time_compat/time_compat.iml" filepath="$PROJECT_DIR$/_build/default/lib/time_compat/time_compat.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+{application,bear,
+             [{description,"Statistics functions for Erlang"},
+              {vsn,"0.8.3"},
+              {registered,[]},
+              {applications,[]},
+              {env,[]},
+              {modules,[]},
+              {links,[{"Github","https://github.com/puzza007/bear"}]}]}.
